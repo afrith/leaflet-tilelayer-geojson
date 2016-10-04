@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-tilelayer-geojson",
+  "description": "Leaflet plugin to render GeoJSON data over tile layer",
+  "main": "TileLayer.GeoJSON.js",
+  "dependencies": {
+    "leaflet": "~0.7.1"
+  },
+  "authors": [
+    "Glen Robertson"
+  ],
+  "license": "BSD-2-Clause-FreeBSD",
+  "keywords": [
+    "Leaflet",
+    "leaflet.js",
+    "tile",
+    "tilelayer",
+    "geojson"
+  ],
+  "homepage": "https://github.com/afrith/leaflet-tilelayer-geojson",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
